@@ -227,3 +227,23 @@ margin-top: 1rem;
     background-position: center;
     height: 400px;
 }
+.bg_header_about{
+    background-image: url("https://vruxgroup.com/wp-content/uploads/2024/05/1350px-by-260px-1.png");
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+}
+.outer_layer{
+    border: 5px solid #c47c54;
+    text-align: center;
+}
+
+.contact_btn{
+    background-color: #c78960;
+    border: 0;
+    width: 100%;
+    color: #fff;
+}
+.contact_btn:hover{
+    background-color: #000;
+}
